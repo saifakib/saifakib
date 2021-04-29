@@ -22,3 +22,10 @@ Currently I am **available** for **hire**:computer: (remotely, preferabily contr
 - ⚡ Fun fact: I love to play football
 
 :heart_eyes::heart_eyes::heart_eyes::heart_eyes::heart_eyes:
+
+[![saifakib's github stats](https://github-readme-stats.vercel.app/api?username=saifakib&theme=dark&show_icons=true)](https://github.com/saifakib)
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifakib&layout=compact&theme=radical" alt="saifakib"/>
+</a>
+
+
