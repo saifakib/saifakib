@@ -11,7 +11,7 @@ Currently I am **available** for **hire**:computer: (remotely, preferabily contr
 **📫 How to reach me**
 - :raising_hand: Say Hi *[mdsaifakib@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=new)*
 - :point_right: Connect me [Linkedin](https://www.linkedin.com/in/saif-uddin-931a14151/) :innocent:
-- Reach me [saifakib](saifakib.netlify.app/)
+- Reach me [saifakib](https://saifakib.netlify.app/)
 
 <!--
 **Also**
