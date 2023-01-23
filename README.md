@@ -13,24 +13,24 @@ Currently I am **available** for **hire**:computer: (remotely, preferabily contr
 - :point_right: Connect me [Linkedin](https://www.linkedin.com/in/saif-uddin-931a14151/) :innocent:
 - Reach me [saifakib](https://saifakib.netlify.app/)
 
-<!--
+
 **Also**
-- 🔭 I’m currently working on **user alert notifier micro service**
-- 🌱 I’m currently deeply learning **express eco system**
+- 🔭 I’m currently working on **ERP Multi Invertory Management System**
+- 🌱 I’m currently deeply learning **CI/CD, Docker and Kubernetes**
 - 👯 I’m looking to collaborate on other people working on cool technologies
 - 🤔 I’m looking for help with **Node JS**
 - 💬 Ask me about *What i'm doing*
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to play football
--->
+
 
 :heart_eyes::heart_eyes::heart_eyes::heart_eyes::heart_eyes:
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=saifakib&show_icons=true&theme=gotham" alt="saifakib" />
-  <!--
+<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=saifakib&show_icons=true&theme=gotham" alt="saifakib" />
+  
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifakib&layout=compact&theme=radical" alt="saifakib"/>
-</a>
--->
+</a> -->
+
 
 
