@@ -3,10 +3,11 @@
 Currently I am **available** for **hire**:computer: (remotely, preferabily contracts or [40h/week]).
 
 **Area of Interests**:heartpulse:
-- JavaScript, TypeScript, Node JS and Express JS :muscle:
+- JavaScript, TypeScript, Node JS and Express JS, Rest API, GraphQL :muscle:
+- ORM: Mongoose, Prisma
 - React :metal:
+- Backend Focused Development
 - MERN Stack Development
-<!-- - Laravel and PHP -->
 
 **📫 How to reach me**
 - :raising_hand: Say Hi *[mdsaifakib@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=new)*
@@ -15,7 +16,7 @@ Currently I am **available** for **hire**:computer: (remotely, preferabily contr
 
 
 **Also**
-- 🔭 I’m currently working on **ERP Multi Invertory Management System**
+<!-- - 🔭 I’m currently working on **ERP Multi Invertory Management System** -->
 - 🌱 I’m currently deeply learning **CI/CD, Docker and Kubernetes**
 - 👯 I’m looking to collaborate on other people working on cool technologies
 - 🤔 I’m looking for help with **Node JS**
