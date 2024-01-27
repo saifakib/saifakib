@@ -3,7 +3,7 @@
 Currently I am **available** for **hire**:computer: (remotely, preferabily contracts or [40h/week]).
 
 **Area of Interests**:heartpulse:
-- JavaScript, TypeScript, Node JS and Express JS, Rest API, GraphQL :muscle:
+- JavaScript, TypeScript, Node JS Express JS, NestJS, Rest API, GraphQL :muscle:
 - ORM: Mongoose, Prisma
 - React :metal:
 - Backend Focused Development
