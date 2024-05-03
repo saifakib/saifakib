@@ -1,13 +1,16 @@
 ### Hi there, I'm Saif Uddin:blush::blush: - saifakib 👋
 
-Currently I am **available** for **hire**:computer: (remotely, preferabily contracts or [40h/week]).
+Currently, I am **available** for **hire**:computer: (remotely, relocate, preferably contracts or [40h/week]).
 
 **Area of Interests**:heartpulse:
-- JavaScript, TypeScript, Node JS Express JS, NestJS, Rest API, GraphQL :muscle:
-- ORM: Mongoose, Prisma
-- React :metal:
 - Backend Focused Development
-- MERN Stack Development
+- JavaScript, TypeScript, NodeJS, ExpressJS, NestJS, Rest API, GraphQL :muscle:
+- Database and ORM: MySQL, PostgreSQL, MongoDB, Prisma, Mongoose
+- Version Control and CI/CD: Git, Github Actions
+- Cloud | Containerization | Orchestration: Docker, Kafka, RabbitMQ, Redis, PubSub, AWS S3 Bucket
+- Problem Solving and Analysis
+
+
 
 **📫 How to reach me**
 - :raising_hand: Say Hi *[mdsaifakib@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=new)*
@@ -16,11 +19,11 @@ Currently I am **available** for **hire**:computer: (remotely, preferabily contr
 
 
 **Also**
-<!-- - 🔭 I’m currently working on **ERP Multi Invertory Management System** -->
-- 🌱 I’m currently deeply learning **CI/CD, Docker and Kubernetes**
-- 👯 I’m looking to collaborate on other people working on cool technologies
+<!-- - 🔭 I’m currently working on **Fintech based multi-service distributed system** -->
+- 🌱 I’m currently deeply learning **Golang, Kubernetes & AWS services**
+- 👯 I’m looking to collaborate with other people working on cool technologies
 - 🤔 I’m looking for help with **Node JS**
-- 💬 Ask me about *What i'm doing*
+- 💬 Ask me about *What I'm doing*
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to play football
 
