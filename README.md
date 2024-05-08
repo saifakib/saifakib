@@ -1,4 +1,4 @@
-### Hi there, I'm Saif Uddin:blush::blush: - saifakib 👋
+### Hi there, I'm Saif Uddin - saifakib 👋
 
 Currently, I am **available** for **hire**:computer: (remotely, relocate, preferably contracts or [40h/week]).
 
